@@ -1,0 +1,47 @@
+*{
+	padding:0;
+	margin:0;
+	color:white;
+}
+
+
+body{
+	background-image : url("Background/t4.png");
+	background-attachment: fixed;
+	background-position:center;
+	background-size:cover;
+	height;100vh;
+		
+}
+
+a{
+	color:white;
+}
+
+a:hover{
+	color:#00ff00;
+	text-decoration:none;
+	text-shadow:3px 3px 3px #80ff00;
+}
+
+.container{
+	height:100vh;
+	width:100%;	
+}
+
+    
+.row1,.row2,.row3{
+	text-align:center;
+}
+    
+.row1{
+	font-size:100px;
+}
+    
+.row2,.row3{
+	margin-top:15px;
+}
+
+.row3{
+	font-size:20px;
+}

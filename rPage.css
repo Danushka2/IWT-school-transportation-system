@@ -1,0 +1,141 @@
+*{
+	padding:0;
+	margin:0;
+	color:white;
+}
+
+
+body{
+	background-image : url("Background/t4.png");
+	background-attachment: fixed;
+	background-position:center;
+	background-size:cover;
+	height;100vh;
+		
+}
+
+a{
+	color:white;
+}
+
+a:hover{
+	color:#00ff00;
+	text-decoration:none;
+	text-shadow:3px 3px 3px #80ff00;
+}
+
+.container{
+	height:100vh;
+	width:100%;	
+}
+
+    
+.row1,.row2,.row3{
+	text-align:center;
+}
+    
+.row1{
+	font-size:100px;
+}
+    
+.row2,.row3{
+	margin-top:15px;
+}
+
+.row3{
+	font-size:20px;
+}
+
+#topic, #intro{
+    text-align:center;
+}
+
+#intro{
+	font-family:"Comic Sans MS", cursive, sans-serif;
+}
+
+#topic{
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:40px;
+}
+
+.header{
+	 text-decoration:bold;
+	 text-align : center;
+	 font-size:30px;
+	 color:#F96;
+	 padding-top:10px;
+}
+
+
+ .firstname,.secondname,.contact,.age, .mail, .pass, .cpass, .genderclass, .school, .address, .typeclass, .driver, .vehitype, .vehicle, .air, .date, .time, .km{
+	 margin-left: 1px;
+     font-family: sans-serif;
+     font-size: 14px;
+     color: white;
+     margin-top: 10px;
+}
+
+.col-sm-8{
+	  margin-top: 5px;
+}
+
+.col-sm-4.male, .col-sm-4.bus, .col-sm-4.with{
+	 color: white;
+     font-size: 13px;
+     margin-top: 9px;
+     padding-bottom: 16px;
+}
+.col-sm-4.female, .col-sm-4.van , .col-sm-4.without{
+     color: white;
+     font-size: 13px;
+     margin-top: 9px;
+     padding-bottom: 16px;
+	 padding-right: 95px;
+}	
+#submit{
+	 color: #00ff00;
+     font-size: 20px;
+     border: 1px solid black;
+	 border-radius:10px;
+	 font-family:"Comic Sans MS", cursive, sans-serif;
+     background-color: #080808;
+     width: auto;
+     margin-left: 41%;
+     margin-top: 16px;
+	 box-shadow: 0px 2px 2px 0px white;  	   
+}
+
+#submit:hover{
+	
+    box-shadow: 2px 1px 2px 3px #99ccff;
+	background:#5900a6;
+	color:#fff;
+	transition: background-color 1.15s ease-in-out,border-color 1.15s ease-in-out,box-shadow 1.15s ease-in-out;
+	
+	
+}
+
+
+.back{
+	font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
